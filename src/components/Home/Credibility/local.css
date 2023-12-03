@@ -1,0 +1,19 @@
+.scroll-container {
+    /* display: flex; */
+    overflow: hidden;
+}
+
+.logo-list {
+    display: flex;
+    animation: scroll 100s linear infinite;
+}
+
+@keyframes scroll {
+    0% {
+        transform: translateX(0%);
+    }
+
+    100% {
+        transform: translateX(-100%);
+    }
+}

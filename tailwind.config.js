@@ -1,0 +1,58 @@
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: [
+    "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}",
+  ],
+  theme: {
+    extend: {
+      fontFamily: {
+        'plus-jakarta-sans': ['Plus Jakarta Sans', 'sans-serif'],
+      },
+      colors: {
+        primary: '#088397',
+        secondary: '#fff',
+        black: '#000',
+        // gray: '#58595d',
+        'green-cyan': '#059669',
+        'dark-charcoal': '#333',
+        'black-olive': '#3a3a3a',
+        'silver-sand': '#c3c3c3',
+        'color-alice-blue': '#edf7ff',
+        'color-gunmetal': '#263238',
+        'color-dim-gray': '#696969',
+        'color-mellow-apricot': '#fdc171',
+        'color-light-sea-green': '#1cb8b8',
+        'color-chinese-white': '#e0e0e0',
+        'color-gainsboro': '#d8dcdc',
+        'color-ufo-green': '#32c671',
+        'color-spanish-gray': '#939494',
+        'color-mint-cream': '#f6fafa',
+        'color-metallic-seaweed': '#088397',
+        'color-white': '#fff',
+        'color-chinese-black': '#0d1b1e',
+        'color-azureish-white': '#dff3f3',
+        'color-jet': '#343434',
+        'color-black': '#000',
+        'color-violet': '#826ff2',
+        'color-plump-purple': '#574ba7',
+        'color-pale-violet': '#ca9cfb',
+        'color-sonic-silver': '#767778',
+        'color-blueberry': '#4285f4',
+        'color-slate-blue': '#6658bb',
+        'color-prussian-blue': '#063255',
+        'color-cultured': '#f8f8f8',
+        'color-ghost-white': '#f9feff',
+        'color-vivid-red': '#fd1616',
+        'color-bubbles': '#e7f8fe',
+        'color-columbia-blue': '#c2d6da',
+        'color-crayola': '#55dff5',
+        'color-dark-gradient-blue': 'linear-gradient(96.72deg,#097f94 2.85%,#0e395c 85.52%)',
+      },
+    },
+  },
+  plugins: [
+    // require('daisyui'),
+  ],
+}
+
