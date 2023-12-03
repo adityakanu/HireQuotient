@@ -282,7 +282,7 @@ const Footer = () => {
                 </div>
 
                 <div className="py-8 text-sm text-center text-gray-400 border-t">
-                    © 2021 - Present Flowrift. All rights reserved.
+                    © 2023 - HireQuotient. All rights reserved.
                 </div>
             </footer>
         </div>

@@ -51,7 +51,7 @@
   
 ### Built With
 
-These are the major technologies used to build the software
+These are the major technologies used to build the Website
 
 * [![React][React.js]][React-url]
 
