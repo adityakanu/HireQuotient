@@ -15,14 +15,12 @@
     <br />
     <a href="https://github.com/adityakanuHireQuotient"><strong>Explore the docs »</strong></a>
     <br />
-    <br /> 
+    <br />
     <a href="https://github.com/adityakanuHireQuotient">Report Bug</a>
     ·
     <a href="https://github.com/adityakanuHireQuotient">Request Feature</a>
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -44,18 +42,13 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
 <div>
   <img src="images/screenshot.png" alt="Screenshot" >
 </div>
   
-
-
-
-
 ### Built With
 
 These are the major technologies used to build the software
@@ -64,7 +57,6 @@ These are the major technologies used to build the software
 
 <!-- GETTING STARTED -->
 ## Getting Started
-
 
 ### Frontend Setup
 
@@ -83,16 +75,12 @@ These are the major technologies used to build the software
 
     The front end will be available at <http://localhost:5173>.
 
-
-
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Add smooth scroll
-- [ ] Improve carousel animation
-- [ ] change navbar icons based on content
-
-
+* [ ] Make Navbar Responsive
+* [ ] Improve carousel animation
+* [ ] change navbar icons based on content
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -108,23 +96,17 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-
-
 <!-- LICENSE -->
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-
-
-
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@adityakanu_](https://twitter.com/adityakanu_) - official.adityakanu@gmail.com
+Your Name - [@adityakanu_](https://twitter.com/adityakanu_) - <official.adityakanu@gmail.com>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -137,13 +119,5 @@ Your Name - [@adityakanu_](https://twitter.com/adityakanu_) - official.adityakan
 [stars-url]: https://github.com/adityakanu/Log-Ingestor-with-Query-Interface/stargazers
 [issues-shield]: https://img.shields.io/github/issues/adityakanu/Log-Ingestor-with-Query-Interface.svg?style=for-the-badge
 [issues-url]: https://github.com/adityakanu/Log-Ingestor-with-Query-Interface/issues
-[license-shield]: https://img.shields.io/github/license/adityakanu/Log-Ingestor-with-Query-Interface.svg?style=for-the-badge
-[license-url]: https://github.com/adityakanu/Log-Ingestor-with-Query-Interface/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/adityakanu/
-[Express.js]: https://img.shields.io/badge/express-000000?style=for-the-badge&logo=expressdotjs&logoColor=white
-[Express-url]: https://expressjs.com/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
-[mongodb.com]: https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=61DAFB
-[MongoDB-url]: https://mongodb.com/
