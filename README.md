@@ -6,21 +6,19 @@
 <br />
 <div align="center">
   <a href="https://github.com/adityakanuHireQuotient">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="200" height="80">
   </a>
 
   <h3 align="center">Proposed Home Page for HireQuotient </h3>
 
   <p align="center">
     <br />
-    <a href="https://github.com/adityakanu/Log-Ingestor-with-Query-Interface"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/adityakanuHireQuotient"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://youtu.be/bKpkh2cvIAo">View Demo</a>
+    <br /> 
+    <a href="https://github.com/adityakanuHireQuotient">Report Bug</a>
     ·
-    <a href="https://github.com/adityakanu/Log-Ingestor-with-Query-Interface/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/adityakanu/Log-Ingestor-with-Query-Interface/issues">Request Feature</a>
+    <a href="https://github.com/adityakanuHireQuotient">Request Feature</a>
   </p>
 </div>
 
@@ -34,13 +32,11 @@
       <a href="#about-the-project">About The Project</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
-        <li><a href="#load-testing">Performance</a></li>
       </ul>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -53,20 +49,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <div>
-  <img src="images/screenshot.png" alt="Screenshot" width="80" height="80">
+  <img src="images/screenshot.png" alt="Screenshot" >
 </div>
-    
-
-    backend: Contains the Express server, MongoDB models, and routes.
-    frontend: Contains the React application using Vite.
-
-### Log Ingestion
-
-The log ingestion feature allows you to submit logs to the backend. You can navigate to the log ingestion page (/ingest), fill in the log details, and submit the form.
-
-### Issue Query Interface
-
-The log query interface (/logs) enables you to search and filter logs based on criteria such as log level, message, resource ID, timestamp, and more. Select a property, enter a value, and click "Query Logs" to view the filtered logs in a tabular format.
+  
 
 
 
@@ -80,52 +65,12 @@ These are the major technologies used to build the software
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This project is a simple log management system with a front-end for logging ingestion and a backend for verifying and displaying logs.
-
-### Backend Setup
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone https://github.com/adityakanu/Log-Ingestor-with-Query-Interface.git
-   cd Log-Ingestor-with-Query-Interface
-    ```
-
-2. **Install dependencies:**
-
-    ```bash
-
-    cd backend
-    npm install
-    ```
-
-3. **Set up MongoDB:**
-
-    Create a MongoDB Atlas cluster and obtain the connection string.
-
-    Create a .env file in the backend directory and add the MongoDB connection string:
-
-    ```env
-
-    MONGODB_URI=your-mongodb-connection-string
-    ```
-
-4. **Run the backend server:**
-
-    ```bash
-
-    npm start
-    ```
-
-    The backend server will be running at <http://localhost:3000>.
 
 ### Frontend Setup
 
 5. **Install dependencies:**
 
     ```bash
-
-    cd frontend
     npm install
     ```
 
@@ -138,19 +83,14 @@ This project is a simple log management system with a front-end for logging inge
 
     The front end will be available at <http://localhost:5173>.
 
-## Usage
-
-- You can use the Log Ingestor to insert logs or directly send Logs to <http://localhost:3000>.
-- The Logs can be viewed in the query interface.
 
 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Add query using multiple filters
-- [ ] Query issues between dates
-- [ ] Role-wise issue management
-- [ ] Export of filtered data into CSV
+- [ ] Add smooth scroll
+- [ ] Improve carousel animation
+- [ ] change navbar icons based on content
 
 
 
