@@ -10,8 +10,10 @@ const Testimonials = () => {
                     {/* <!-- quote - start --> */}
                     <div className="flex flex-col items-center gap-4 sm:px-4 md:gap-6 lg:px-8">
                         <div className="text-center text-gray-600">
-                            “This is a section of some simple filler text, also
-                            known as placeholder text.”
+                            “HireQuotient changed the way we hire. And it’s now
+                            the way we work for us to hire the best talent for
+                            our company and our clients with ease and confidence
+                            that we all have”
                         </div>
 
                         <div className="flex flex-col items-center gap-2 sm:flex-row md:gap-3">
@@ -39,8 +41,10 @@ const Testimonials = () => {
                     {/* <!-- quote - start --> */}
                     <div className="flex flex-col items-center gap-4 sm:px-4 md:gap-6 lg:px-8">
                         <div className="text-center text-gray-600">
-                            “This is a section of some simple filler text, also
-                            known as placeholder text.”
+                            “HireQuotient changed the way we hire. And its now
+                            the way we work for us to hire the best talent for
+                            our company and our clients with ease and confidence
+                            that we all have and thank you ”
                         </div>
 
                         <div className="flex flex-col items-center gap-2 sm:flex-row md:gap-3">
@@ -68,8 +72,9 @@ const Testimonials = () => {
                     {/* <!-- quote - start --> */}
                     <div className="flex flex-col items-center gap-4 sm:px-4 md:gap-6 lg:px-8">
                         <div className="text-center text-gray-600">
-                            “This is a section of some simple filler text, also
-                            known as placeholder text.”
+                            “HireQuotient changed the way we hire. And its now
+                            the way we work for us to hire ease and confidence
+                            that we all have and thank you ”
                         </div>
 
                         <div className="flex flex-col items-center gap-2 sm:flex-row md:gap-3">

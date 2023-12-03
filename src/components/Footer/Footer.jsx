@@ -1,4 +1,4 @@
-import { FaGithub } from 'react-icons/fa';
+// import { FaGithub } from 'react-icons/fa';
 import logo from '../../assets/logo.webp';
 const Footer = () => {
     return (
@@ -19,8 +19,8 @@ const Footer = () => {
                         {/* <!-- logo - end --> */}
 
                         <p className="mb-6 text-gray-500 sm:pr-8">
-                            Filler text is dummy text which has no meaning
-                            however looks very similar to real text.
+                            HireQuotient is a hiring platform that helps you
+                            connect with top talent.
                         </p>
 
                         {/* <!-- social - start --> */}
@@ -108,7 +108,7 @@ const Footer = () => {
                                     href="#"
                                     className="text-gray-500 transition duration-100 hover:text-indigo-500 active:text-indigo-600"
                                 >
-                                    Overview
+                                    Industry
                                 </a>
                             </div>
 
@@ -163,7 +163,7 @@ const Footer = () => {
                                     href="#"
                                     className="text-gray-500 transition duration-100 hover:text-indigo-500 active:text-indigo-600"
                                 >
-                                    Investor Relations
+                                    Partners
                                 </a>
                             </div>
 
@@ -181,7 +181,7 @@ const Footer = () => {
                                     href="#"
                                     className="text-gray-500 transition duration-100 hover:text-indigo-500 active:text-indigo-600"
                                 >
-                                    Press
+                                    Case Studies
                                 </a>
                             </div>
 

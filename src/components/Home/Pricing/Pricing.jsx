@@ -11,7 +11,7 @@ const Pricing = () => {
                     <div className="flex flex-col p-4 pt-6 border rounded-lg">
                         <div className="mb-12">
                             <div className="mb-2 text-2xl font-bold text-center text-gray-800">
-                                Free
+                                Basic
                             </div>
 
                             <p className="px-8 mx-auto mb-8 text-center text-gray-500">
@@ -38,7 +38,7 @@ const Pricing = () => {
                                     </svg>
 
                                     <span className="text-gray-600">
-                                        1.000 MB file storage
+                                        1 Job Role/Month
                                     </span>
                                 </div>
                                 {/* <!-- check - end --> */}
@@ -61,7 +61,7 @@ const Pricing = () => {
                                     </svg>
 
                                     <span className="text-gray-600">
-                                        2.000 MB bandwidth per month
+                                        20 Search Profiles
                                     </span>
                                 </div>
                                 {/* <!-- check - end --> */}
@@ -120,7 +120,7 @@ const Pricing = () => {
                                     $
                                 </span>
                                 <span className="text-4xl font-bold text-gray-800">
-                                    0
+                                    50
                                 </span>
                                 <span className="text-gray-500">
                                     per user/month
@@ -174,7 +174,7 @@ const Pricing = () => {
                                     </svg>
 
                                     <span className="text-gray-600">
-                                        Unlimited file storage
+                                        Unlimited Job Role/Month
                                     </span>
                                 </div>
                                 {/* <!-- check - end --> */}
@@ -197,7 +197,7 @@ const Pricing = () => {
                                     </svg>
 
                                     <span className="text-gray-600">
-                                        10 GB bandwidth per month
+                                        100 Search Profiles
                                     </span>
                                 </div>
                                 {/* <!-- check - end --> */}
@@ -279,7 +279,7 @@ const Pricing = () => {
                                     $
                                 </span>
                                 <span className="text-4xl font-bold text-gray-800">
-                                    19
+                                    199
                                 </span>
                                 <span className="text-gray-500">
                                     per user/month
@@ -326,7 +326,7 @@ const Pricing = () => {
                                     </svg>
 
                                     <span className="text-gray-600">
-                                        Unlimited file storage
+                                        Unlimited Job Role/Month
                                     </span>
                                 </div>
                                 {/* <!-- check - end --> */}
@@ -349,7 +349,7 @@ const Pricing = () => {
                                     </svg>
 
                                     <span className="text-gray-600">
-                                        Unlimited bandwidth per month
+                                        Unlimited Search Profiles
                                     </span>
                                 </div>
                                 {/* <!-- check - end --> */}
@@ -431,7 +431,7 @@ const Pricing = () => {
                                     $
                                 </span>
                                 <span className="text-4xl font-bold text-gray-800">
-                                    49
+                                    499
                                 </span>
                                 <span className="text-gray-500">
                                     per user/month
